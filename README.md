@@ -60,5 +60,3 @@ arduino-ir-catapult-robot/
 │   └── main.ino
 ├── hardware/
 │   └── project images / circuit documentation
-└── docs/
-    └── additional project documentation
